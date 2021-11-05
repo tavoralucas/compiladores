@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class rpm {
+public class rpn {
 
 	public static void main (String[] args) throws FileNotFoundException {
 		Stack<Double> stackUsable = new Stack<>();		
